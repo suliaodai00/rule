@@ -1,0 +1,8 @@
+# Meta Muse 分流规则（Clash classical / Surge 通用）
+# 维护：按需补充；Muse 仅在美国/加拿大提供服务，建议走美国节点
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,ai.meta.com
+DOMAIN-SUFFIX,accountscenter.meta.com
+DOMAIN-SUFFIX,agent.meta.ai
+DOMAIN-SUFFIX,meta.com
